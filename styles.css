@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+}
+
+header {
+    gap: 15px;
+    height: 5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 50px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #474747;
+}
+
+#title {
+    font-family: 'Inter', serif;
+}
+
+main {
+    gap: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.code {
+    padding-top: 2em;
+}
+
+footer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    color: white;
+    background-color: #474747;
+}
