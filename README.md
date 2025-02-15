@@ -1,1 +1,3 @@
-# Assignment-0 - Four sorting algorithms
+# Assignment-0 - Four sorting algorithms 
+
+Noah Tesson
